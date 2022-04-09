@@ -3,7 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import Nav from './components/Nav';
 import About from "./components/About";
-import Gallery from "./components/Gallery";
+import Gallery from "./components/Gallery"
 //import Footer from "./components/Footer";
 //import Project from "./components/Project";
 
